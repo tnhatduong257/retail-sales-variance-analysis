@@ -30,3 +30,14 @@ The pipeline automatically generates comparative charts highlighting regional pe
    ```bash
    git clone [https://github.com/tnhatduong257/retail-sales-variance-analysis.git](https://github.com/tnhatduong257/retail-sales-variance-analysis.git)
    cd retail-sales-variance-analysis
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   pip install numpy pandas matplotlib
+   ```
+
+3. **Run the analysis pipeline:**
+   ```bash
+   python sales_analysis_pipeline.py
+   ```
